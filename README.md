@@ -1,2 +1,2 @@
 # Bondi_website
-Use Bootsrtap HTML CSS 
+Use HTML CSS Bootsrtap
